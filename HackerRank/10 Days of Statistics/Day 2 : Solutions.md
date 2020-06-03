@@ -1,16 +1,16 @@
-                                             # Day 2: Basic Probability
+# Day 2: Basic Probability
 
 Task: In a single toss of 2 fair (evenly-weighted) six-sided dice, find the probability that their sum will be at most 9.
 
 # Ans: 30/36 = 5/6
 
-                                                # Day 2: More Dice
+# Day 2: More Dice
 
 Task: In a single toss of 2 fair (evenly-weighted) six-sided dice, find the probability that the values rolled by each die will be different and the two dice have a sum of 6.
 
 # Ans: 4/36 = 1/9
 
-                                          # Day 2: Compound Event Probability
+# Day 2: Compound Event Probability
 
 Task: There are 3 urns labeled X, Y, and Z.
 
